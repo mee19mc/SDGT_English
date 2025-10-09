@@ -1,5 +1,6 @@
-# Unofficial English Translation
+# WIP Unofficial English Translation
 
+Currently a Work In Progress
 This repository contains **JSON translation data** extracted with FModel.  
 All files here represent **text-only content** (no binaries, models, or other assets).  
 The goal of this project is to make the game accessible to English-speaking players through a community-driven translation patch.
