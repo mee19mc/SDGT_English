@@ -1,4 +1,4 @@
-# Unofficial English Translation (Unreal Engine .pak)
+# Unofficial English Translation
 
 This repository contains **JSON translation data** extracted from `.uasset` files of the original game.  
 All files here represent **text-only content** (no binaries, models, or other assets).  
