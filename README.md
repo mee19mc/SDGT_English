@@ -1,9 +1,10 @@
-# WIP Unofficial English Translation
+# WIP Unofficial SDGT English Translation
 
 Currently a Work In Progress
 This repository contains **JSON translation data** extracted with FModel.  
 All files here represent **text-only content** (no binaries, models, or other assets).  
 The goal of this project is to make the game accessible to English-speaking players through a community-driven translation patch.
+All translated JSON will be published here as I get around to it.
 ---
 ## 📘 Project Overview
 - **Purpose:** Provide English translations of in-game text for educational, preservation, and accessibility purposes.  
