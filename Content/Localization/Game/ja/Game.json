@@ -644,7 +644,7 @@
     "MatchBoostOnline_WillApplied": "が適用されます",
     "MatchBoost_WillApplied": "が適用されます",
     "TeamSeq_JoinTeam_Confirm": "You are about to join the team\r\nAre you sure？",
-    "TeamSeq_CreateTeam_TeamNameConfirm": Would you like to set this as your Team Name？",
+    "TeamSeq_CreateTeam_TeamNameConfirm": "Would you like to set this as your Team Name？",
     "TeamSeq_CreateTeam_TeamNameDecision": "こちらのチーム名で決定しました\r\n<RedSmall>※チーム加入パスワードはチーム管理画面で確認できます</>",
     "SelName_AreYouSure": "Are you sure you want to change to the selected name?",
     "SelName_DecidedNameSimple": "こちらのドライバー名で決定しました",
